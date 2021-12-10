@@ -13,7 +13,7 @@ export default function Character(props){
     `
     const AcoBod = styled.div`
     background-color: lightgrey;
-    opacity: .9;
+    opacity: .99;
     `
     return (
         
